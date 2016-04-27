@@ -17,6 +17,6 @@ Format : XML
 
 Detail explanation about the corpus is described in:
 
-Irmawati, B., Komachi, M., and Matsumoto, Y. (2014). Towards Construction of an Error-Corrected Corpus of Indonesian Second Language Learners. In International Conference on Corpus Linguistics (poster session), Las Palmas de Gran Canaria, Spain. Spanish Association of Corpus Linguistics.
+Irmawati, B., Komachi, M., and Matsumoto, Y. (2014). Towards Construction of an Error-Corrected Corpus of Indonesian Second Language Learners. In Francisco Alonso Almeida, Ivalla Ortega Barrera, Elena Quintana Toledo, Margarita Sánchez Cuervo (Eds), Input a Word, Analyse the World: Selected Approaches to Corpus Linguistics, pp. 425–443, Newcastle upon Tyne: Cambridge Scholars Publishing, 2016.
 
-[https://github.com/yzakodek/LearnerCorpus/blob/master/CILCPaperFinal.pdf](https://github.com/yzakodek/LearnerCorpus/blob/master/CILCPaperFinal.pdf)
+[http://www.cambridgescholars.com/input-a-word-analyze-the-world](http://www.cambridgescholars.com/input-a-word-analyze-the-world)
